@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+<!-- TOC -->
 
-You can use the [editor on GitHub](https://github.com/LjyYano/Thinking_in_Java_MindMapping/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- [我的 2021 计划](#我的-2021-计划)
+- [前言](#前言)
+- [链接](#链接)
+- [公众号](#公众号)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- /TOC -->
 
-### Markdown
+# 我的 2021 计划
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[我的 2021 计划](https://www.notion.so/YANO-SPACE-2021-ff42bde7acd1467eb3ae63dc0d4a9f8c)
 
-```markdown
-Syntax highlighted code block
+# 前言
 
-# Header 1
-## Header 2
-### Header 3
+很早之前读《Java 编程思想》，用思维导图做笔记并将思维导图的截图放到了简书上，没想到期间有很多人留言要这份思维导图。最终创建了这个项目，但是又写入了很多文章，也许这个项目叫做 `Thinking_in_Java_MindMapping` 已经不合适了。
 
-- Bulleted
-- List
+# 链接
 
-1. Numbered
-2. List
+- 博客园：[https://www.cnblogs.com/510602159-Yano/](https://www.cnblogs.com/510602159-Yano/)
+- 简书：[https://www.jianshu.com/u/6835c29fc12a](https://www.jianshu.com/u/6835c29fc12a)
 
-**Bold** and _Italic_ and `Code` text
+# 公众号
 
-[Link](url) and ![Image](src)
-```
+coding 笔记、点滴记录，以后的文章也会同步到公众号（Coding Insight）中，希望大家关注^_^
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LjyYano/Thinking_in_Java_MindMapping/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](http://yano.oss-cn-beijing.aliyuncs.com/2019-07-29-qrcode_for_gh_a26ce4572791_258.jpg)
